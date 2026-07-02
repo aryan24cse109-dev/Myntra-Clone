@@ -7,7 +7,7 @@ A front-end clone of the Myntra e-commerce website, built using **HTML** and **C
 
 ## 🔗 Live Demo
 
-👉 [View Live Project](https://yourusername.github.io/myntra-clone/)
+👉 [View Live Project](https://aryan24cse109-dev.github.io/Myntra-Clone/)
 
 ## 📌 About the Project
 
